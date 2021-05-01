@@ -1,0 +1,10 @@
+
+
+Meu objetivofoi mapear os DryBar da região de Manhattan, analisando seu entorno a partir do estudo de clusters, 
+complementado com avaliações dos clientes dos estabelecimentos observados. 
+
+https://github.com/Edlaine-Gladys/Coursera_Capstone/blob/main/Drybar_Infnet_Edlaine.pdf
+
+
+https://github.com/Edlaine-Gladys/Coursera_Capstone/blob/main/Capstone_Coursera_Project.ipynb
+
